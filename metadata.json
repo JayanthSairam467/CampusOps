@@ -1,0 +1,6 @@
+{
+  "name": "CampusOps Aegis",
+  "description": "Autonomous campus recovery and operational resilience platform with claymorphic glassmorphism journey graphs and deterministic planning engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
